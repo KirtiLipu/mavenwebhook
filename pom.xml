@@ -24,6 +24,7 @@
 			<version>${junit.version}</version>
 		</dependency>
 		<!-- Spring Core -->
+		<!--Extra Comment line -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
